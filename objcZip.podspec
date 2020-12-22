@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
                    Objective-Zip includes sources of latest versions of ZLib and MiniZip.
                    DESC
 
-  s.homepage     = "https://github.com/eziochiu/objc-zip.git"
+  s.homepage     = "https://github.com/eziochiu/objcZip.git"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source       = { :git => "https://github.com/eziochiu/objc-zip.git",
+  s.source       = { :git => "https://github.com/eziochiu/objcZip.git",
                      :tag => s.version.to_s }
 
 
