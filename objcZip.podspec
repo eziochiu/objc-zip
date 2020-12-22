@@ -2,8 +2,8 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.name         = "objc-zip"
-  s.version      = "1.0.1"
+  s.name         = "objcZip"
+  s.version      = "1.0.2"
   s.summary      = "An object-oriented friendly wrapper library for ZLib and MiniZip, in Objective-C for iOS and OS X"
 
   s.description  = <<-DESC
